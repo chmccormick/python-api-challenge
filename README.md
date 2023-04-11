@@ -1,2 +1,4 @@
 # python-api-challenge
-All Files for Module 6 Challenge
+Using Python API's to look at weather data and city data, weather data was analyzed using linear regression. City and weather data utilized to find ideal vacation spots.
+
+Both are found in the Weatherpy folder
